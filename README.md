@@ -1,7 +1,5 @@
-# CHAPTER 3 (NEWS PORTAL)
-
-As a frontend developer in an industry, of course, you have a job from a client. A client request asking a developer to create a news portal with the aforementioned criteria. The news portal contains, among others, banners containing highlights or the latest news, headlines, current topics, news details and several additional menus. From these features, we are also encouraged to use some of the knowledge we have, including implementing Dynamic
-Routing, React Hooks, Async Waits, REST APIs. That way, the created news portal will make it easier for users to find, explore and search for information
+# TUGAS
+Membuat web berita dan web penghitung berat badan ideal
 
 ## Features :
 - Navbar 
@@ -35,8 +33,4 @@ Routing, React Hooks, Async Waits, REST APIs. That way, the created news portal 
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Authors
 
-- [@nabilarishajuliana](https://github.com/nabilarishajuliana)
-- [@nylaam](https://github.com/nylaam)
-- [@novachan10](https://github.com/novachan10)
